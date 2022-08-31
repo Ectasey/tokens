@@ -1,4 +1,4 @@
-# discord-tokens
+# tokens
 Discord Tokens Shop
 
 
